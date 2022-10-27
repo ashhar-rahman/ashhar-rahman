@@ -112,16 +112,16 @@ Here are some ideas to get you started:
     <img width="30px" src="https://user-images.githubusercontent.com/91816645/173191980-4141ba6a-aef8-487b-8f02-adae39601e20.svg" align="center">
   </a>&nbsp;&nbsp;
   <!-- INSTAGRAM SECTION -->
-  <a href="https://instagram.com/ashhar_rahman" target="_blank">
+  <a href="https://instagram.com/ashhar_rahman/" target="_blank">
     <!-- INSTAGRAM SVG -->
     <img  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" width="30px" align="center"/>
   </a>&nbsp;&nbsp;
  
-  <a href="https://leetcode.com/ashhar_rahman" target="_blank">
+  <a href="https://leetcode.com/ashhar_rahman/" target="_blank">
     <!-- LEETCODE SVG -->
     <img  src="https://leetcode.com/static/images/LeetCode_logo_rvs.png" alt="Leetcode" width="30px" align="center"/>
     </a>&nbsp;&nbsp;
-    <a href="https://codechef.com/ashhar_rahman" target="_blank">
+    <a href="https://codechef.com/users/ashhar_rahman/" target="_blank">
     <!-- CODE CHEF SVG -->
     <img  src="https://cdn.codechef.com/sites/all/themes/abessive/cc-logo.png" alt="CodeChef" width="50px" align="center"/>
   </a><br>
