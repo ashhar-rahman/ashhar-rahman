@@ -3,6 +3,8 @@
 
 **ashhar-rahman/ashhar-rahman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -14,7 +16,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<h1 align="center">Hi 👋, I'm ASHHAR RAHMAN</h1>
 <!-- HELLO SECTION -->
+
 ## <div align="center"><img height="37px" width="37px" src="https://user-images.githubusercontent.com/91816645/173222652-e7e713b4-79c0-4fce-ba5f-64808310117b.gif">&nbsp;&nbsp;Hi Everyone!&nbsp;<img height="37px" width="37px" src="https://user-images.githubusercontent.com/91816645/173222652-e7e713b4-79c0-4fce-ba5f-64808310117b.gif"><br>{{ % WELCOME HERE % }}
 </div>
 <!-- CODING GIF -->
@@ -42,6 +46,7 @@ Here are some ideas to get you started:
 <!-- GITHUB STATS SECTION -->
 ## <div align="center"><img height="37px" width="37px" src="https://user-images.githubusercontent.com/91816645/173223735-d842e8b5-6940-4e8a-bcd4-515951465e62.gif">&nbsp;&nbsp;GitHub Stats&nbsp;<img height="37px" width="37px" src="https://user-images.githubusercontent.com/91816645/173223735-d842e8b5-6940-4e8a-bcd4-515951465e62.gif">
 </div>
+<p align="RIGHT"> <img src="https://komarev.com/ghpvc/?username=ashhar-rahman&label=Profile%20Views&color=0e75b6&style=flat" alt="ashhar-rahman" /> </p>
 <!-- GITHUB STATS GIF -->
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ashhar-rahman&show_icons=true&theme=merko">
@@ -98,17 +103,26 @@ Here are some ideas to get you started:
 <!-- LINKEDIN SECTION -->
 <div align="center">
   <!-- LINKEDIN SVG -->
-  <a href="https://in.linkedin.com/in/ashhar-rahman-150b10201">
-    <img src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="LinkedIn" width="27px" align="center" />
+  <a href="https://in.linkedin.com/in/ashhar-rahman-150b10201" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="30px" align="center" />
   </a>&nbsp;&nbsp;
   <!-- EMAIL SECTION -->
-  <a href="mailto: ashhar786rahman@gmail.com">
+  <a href="mailto: ashhar786rahman@gmail.com" target="_blank">
     <!-- EMAIL SVG -->
-    <img width="27px" src="https://user-images.githubusercontent.com/91816645/173191980-4141ba6a-aef8-487b-8f02-adae39601e20.svg" align="center">
+    <img width="30px" src="https://user-images.githubusercontent.com/91816645/173191980-4141ba6a-aef8-487b-8f02-adae39601e20.svg" align="center">
   </a>&nbsp;&nbsp;
   <!-- INSTAGRAM SECTION -->
-  <a href="https://instagram.com/ashhar_rahman">
+  <a href="https://instagram.com/ashhar_rahman" target="_blank">
     <!-- INSTAGRAM SVG -->
-    <img  src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/instagram.svg" alt="Instagram" width="27px" align="center"/>
+    <img  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" width="30px" align="center"/>
+  </a>&nbsp;&nbsp;
+ 
+  <a href="https://leetcode.com/ashhar_rahman" target="_blank">
+    <!-- LEETCODE SVG -->
+    <img  src="https://leetcode.com/static/images/LeetCode_logo_rvs.png" alt="Leetcode" width="30px" align="center"/>
+    </a>&nbsp;&nbsp;
+    <a href="https://codechef.com/ashhar_rahman" target="_blank">
+    <!-- CODE CHEF SVG -->
+    <img  src="https://cdn.codechef.com/sites/all/themes/abessive/cc-logo.png" alt="CodeChef" width="50px" align="center"/>
   </a><br>
 </div>
